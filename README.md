@@ -5,7 +5,7 @@
 ## Описание
 - Работает с webhook и очередями.
 - Регистрируем двух пользователей, и заходим в /game
- - <img src="https://github.com/kovyakin/test_counter_strike_map/blob/master/public/docs/cs/Снимок%20экрана%202025-04-10%20в%2020.25.09.png" alt="image">
+ <img src="https://github.com/kovyakin/test_counter_strike_map/blob/master/public/docs/cs/Снимок%20экрана%202025-04-10%20в%2020.25.09.png" alt="image">
 
 
 - если надо, включаем ssr
@@ -54,10 +54,14 @@ php artisan queue:work
 - регистрируем пользователя 1 например в chrome
 - заходим от имени пользователя в safari и в chrome
 - тестируем
- - <img src="https://github.com/kovyakin/test_counter_strike_map/blob/master/public/docs/cs/Снимок%20экрана%202025-04-10%20в%2020.25.15.png" alt="image">
-- <img src="https://github.com/kovyakin/test_counter_strike_map/blob/master/public/docs/cs/Снимок%20экрана%202025-04-10%20в%2020.25.48.png" alt="image">
-- <img src="https://github.com/kovyakin/test_counter_strike_map/blob/master/public/docs/cs/Снимок%20экрана%202025-04-10%20в%2020.26.00.png" alt="image">
-- <img src="https://github.com/kovyakin/test_counter_strike_map/blob/master/public/docs/cs/Снимок%20экрана%202025-04-10%20в%2020.27.54.png" alt="image">
+#### скрин 1
+ <img src="https://github.com/kovyakin/test_counter_strike_map/blob/master/public/docs/cs/Снимок%20экрана%202025-04-10%20в%2020.25.15.png" alt="image">
+#### скрин 2
+<img src="https://github.com/kovyakin/test_counter_strike_map/blob/master/public/docs/cs/Снимок%20экрана%202025-04-10%20в%2020.25.48.png" alt="image">
+#### скрин 3
+ <img src="https://github.com/kovyakin/test_counter_strike_map/blob/master/public/docs/cs/Снимок%20экрана%202025-04-10%20в%2020.26.00.png" alt="image">
+#### скрин 4
+ <img src="https://github.com/kovyakin/test_counter_strike_map/blob/master/public/docs/cs/Снимок%20экрана%202025-04-10%20в%2020.27.54.png" alt="image">
 
 - Код vue3 скомпилирован,извините, но выложить не могу.
 ## Author
