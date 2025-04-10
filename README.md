@@ -12,17 +12,17 @@
 
 ## Установка, строго по порядку
 
-в теринале
+- в теринале
 
-git clone https://github.com/kovyakin/test_counter_strike_map.git
+- git clone https://github.com/kovyakin/test_counter_strike_map.git
 
-открываем терминал в папке test копируем .env.example и переименовываем в .env выставляем в .env:
-
+-открываем терминал в папке test копируем .env.example и переименовываем в .env выставляем в .env:
+```php
 APP_LOCALE=ru
 DB_DATABASE=ваша бд
 DB_USERNAME=ваш логин
 DB_PASSWORD=пароль
-
+```
 ## в терминале
 ```php
 npm i
