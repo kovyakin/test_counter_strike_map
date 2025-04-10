@@ -37,9 +37,6 @@ php artisan key:generate
 ```php
 php artisan migrate
 ```
-```php
-php artisan install:broadcasting
-```
 заполняем бд данными карт
 ```php
 php artisan app:add-game-cards
@@ -54,6 +51,13 @@ php artisan reverb:start
 ```php
 php artisan queue:work
 ```
+- регистрируем пользователя 1 например в safari
+- регистрируем пользователя 1 например в chrome
+- заходим от имени пользователя в safari и в chrome
+- тестируем
+ - <img src="https://github.com/kovyakin/components/blob/master/src/docs/images_charts/1.png" alt="image">
+- <img src="https://github.com/kovyakin/components/blob/master/src/docs/images_charts/1.png" alt="image">
+- <img src="https://github.com/kovyakin/components/blob/master/src/docs/images_charts/1.png" alt="image">
 
 ## Author
 
